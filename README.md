@@ -22,3 +22,6 @@ View UserManual.txt
 The git mirror for the source code of imdisk (http://www.ltr-data.se/opencode.html/#ImDisk)
 
 The Official imdisk download version under (http://www.ltr-data.se/files/imdiskinst.exe)
+
+This compiled version is windows 64 bit, and is cache size limited. Only for test, but very stable.
+
