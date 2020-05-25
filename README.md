@@ -1,10 +1,14 @@
 # BoostDisk
 Ram Cache Disk (Dynamic, Compressed, Intelligent)
 
-Dynamic: Only use needed Ram, adjust to Free Ram. In real time. 
+Dynamic: Only use needed Ram, adjust to Free Ram. In real time.
+
 Compressed: Use compression to save Ram and increase Cache size. In real time. 
+
 Driverless: User mode program using IMDISK. 
+
 Configurable: By parameters, configure disk cache for one disk, o many disk.
+
 Intelligent: Persist hot data in ram. 
 
 
