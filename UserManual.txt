@@ -3,10 +3,10 @@ BoostDisk - Dynamic, Compressed, Self-managed and Efficient DISK RAM CACHE
 
 Usage:
 BoostDisk desc_or_name a: b: c
-			      desc_or_name        IMSDISK label/descriptor
+	    desc_or_name        IMSDISK label/descriptor
             a: o A:             Origin Disk to cache
             b: o B:             New Virtual Disk cached
-			      c o C               Optional, RAM Compression
+	    c o C               Optional, RAM Compression
 	
 			(Only disk without Windows installed)
      
