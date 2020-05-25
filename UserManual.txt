@@ -17,3 +17,5 @@ C:\APPLIANCES\BoostDisk.exe TEST B: E: C
 
 Disable disk E: (disk B: gets online, E: offline)
 imdisk -D -m e:
+
+This compiled version is windows 64 bit, and is cache size limited. Only for test, but very stable.
