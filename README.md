@@ -9,9 +9,9 @@ Driverless: User mode program using IMDISK.
 
 Configurable: By parameters, configure disk cache for one disk, o many disk.
 
-Intelligent: Persist hot data in ram. 
+Intelligent: Persist hot data in ram. Intelligent data management (A.I.)
 
-
+Efficient: Cache at Disk Data (Low Block Level).
 
 Prerequisites: 
 Windows 7 (32/64 bits) and up to Windows 10.
