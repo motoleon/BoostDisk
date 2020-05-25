@@ -1,0 +1,19 @@
+BoostDisk - Dynamic, Compressed, Self-managed and Efficient DISK RAM CACHE 
+            Copyright (C) 2029-2020 MotoLeon
+
+Usage:
+BoostDisk desc_or_name a: b: c
+			      desc_or_name        IMSDISK label/descriptor
+            a: o A:             Origin Disk to cache
+            b: o B:             New Virtual Disk cached
+			      c o C               Optional, RAM Compression
+	
+			(Only disk without Windows installed)
+     
+Example:
+
+Create disk E: with ram compressed cache (disk B: gets offline, new E: online):
+C:\APPLIANCES\BoostDisk.exe TEST B: E: C
+
+Disable disk E: (disk B: gets online, E: offline)
+imdisk -D -m e:
