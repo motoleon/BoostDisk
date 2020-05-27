@@ -27,6 +27,6 @@ This compiled version is windows 64 bit, and is cache size limited. Only for tes
 ---------------------------------------------------------------------------------------------------
 
 TO DO:  
--Prefetching implementation. Boost cold boot of programs-games.
+-Prefetching implementation. Boost cold boot of programs-games <- in progress
 
 -Use unused GPU RAM (NVIDIA/AMD) to cache data.
