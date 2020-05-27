@@ -1,5 +1,5 @@
 # BoostDisk
-Ram Cache Disk (Dynamic, Compressed, Intelligent)
+Ram Cache Disk (Dynamic, Compressed, Intelligent, Efficient)
 
 Dynamic: Only use needed Ram, adjust to Free Ram. In real time.
 
@@ -16,9 +16,8 @@ Efficient: Cache at Disk Data (Low Block Level).
 Prerequisites:
 ----------------
 Windows 7 (32/64 bits) and up to Windows 10.
-ImDisk installed.
 
-View UserManual.txt
+ImDisk installed.
 
 The git mirror for the source code of imdisk (http://www.ltr-data.se/opencode.html/#ImDisk)
 
@@ -29,4 +28,5 @@ This compiled version is windows 64 bit, and is cache size limited. Only for tes
 
 TO DO:  
 -Prefetching implementation. Boost cold boot of programs-games.
+
 -Use unused GPU RAM (NVIDIA/AMD) to cache data.
