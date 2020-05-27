@@ -27,5 +27,6 @@ The Official imdisk download version under (http://www.ltr-data.se/files/imdiski
 This compiled version is windows 64 bit, and is cache size limited. Only for test, but very stable.
 ---------------------------------------------------------------------------------------------------
 
-TO DO:  Prefetching implementation. Boost cold boot of programs-games.
-        Use unused GPU RAM (NVIDIA/AMD) to cache data.
+TO DO:  
+-Prefetching implementation. Boost cold boot of programs-games.
+-Use unused GPU RAM (NVIDIA/AMD) to cache data.
